@@ -1,2 +1,3 @@
 # Counter-Strike-Avanzate-Edition
-Counter-Strike Avanzate Edition offical repository
+CSAE offical repository
+CSAE 官方仓库
