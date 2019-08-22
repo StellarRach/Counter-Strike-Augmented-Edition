@@ -1,5 +1,6 @@
 # _Counter-Strike Avanzate Edition_ offical repository
 [Offical Baidu Tieba](https://tieba.baidu.com/csae)
+
 [Offical Telegram group](https://t.me/joinchat/JNYAMw3FyuWw81pHaG07JA)
 
 Go to [releases](https://github.com/ltndkl/Counter-Strike-Avanzate-Edition/releases) to download _CSAE_.
@@ -8,6 +9,7 @@ Go to [Issues](https://github.com/ltndkl/Counter-Strike-Avanzate-Edition/issues)
 
 # _Counter-Strike Avanzate Edition_ 官方更新仓库
 [官方贴吧](https://tieba.baidu.com/csae)
+
 [官方电报群](https://t.me/joinchat/JNYAMw3FyuWw81pHaG07JA)
 
 请前往[releases](https://github.com/ltndkl/Counter-Strike-Avanzate-Edition/releases)下载 _CSAE_ 。
