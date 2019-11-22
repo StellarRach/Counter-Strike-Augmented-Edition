@@ -1,7 +1,7 @@
-# _Counter-Strike Avanzate Edition_ offical repository
-[Offical Baidu Tieba](https://tieba.baidu.com/csae)
+# _Counter-Strike Avanzate Edition_ official repository
+[Official Baidu Tieba](https://tieba.baidu.com/csae)
 
-[Offical Telegram group](https://t.me/joinchat/JNYAMw3FyuWw81pHaG07JA)
+[Official Telegram group](https://t.me/joinchat/JNYAMw3FyuWw81pHaG07JA)
 
 Go to [releases](https://github.com/ltndkl/Counter-Strike-Avanzate-Edition/releases) to download _CSAE_.
 
