@@ -27,7 +27,7 @@ Multi-threaded downloaders like IDM and aria2 are recommended.
 
 请前往[Issues](https://github.com/ltndkl/Counter-Strike-Avanzate-Edition/issues)报告BUG或请求新功能。
 
-# 新的_CSAE_下载站点
+# 新的 _CSAE_ 下载站点
 从[这个站点](https://csae.ltndkl.workers.dev)下载可能会比GitHub快，但可供下载的正式版本只有[Build 497](https://github.com/ltndkl/Counter-Strike-Avanzate-Edition/releases/tag/497)和[Build 900](https://github.com/ltndkl/Counter-Strike-Avanzate-Edition/releases/tag/900)。此站点主要提供测试版本下载。
 
 推荐使用多线程下载工具（如IDM，aria2，迅雷等）。
