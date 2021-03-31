@@ -1,33 +1,50 @@
-# _Counter-Strike Avanzate Edition_ official repository
-[Official Baidu Tieba](https://tieba.baidu.com/csae)
+[中文版](https://github.com/ltndkl/Counter-Strike-Augmented-Edition#counter-strike-augmented-edition-%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93)
 
-[Official Telegram group](https://t.me/joinchat/JNYAMw3FyuWw81pHaG07JA)
+# _Counter-Strike Augmented Edition_ public repository
+-   This repository does not contain any _CSAE_ source code at the moment.
 
-Go to [releases](https://github.com/ltndkl/Counter-Strike-Avanzate-Edition/releases) to download _CSAE_.
+-   By downloading _CSAE_, you agree with the following terms:
+    1. _CSAE_ is essentially a **mod** based on _CS1.6 build 3266_ and is **NOT** something related with a private server.
+    2. This mod, and/or any of its content, should not be used for any commercial purpose. The mod dev team will NOT bear any legal responsibilities related with this.
+    3. This mod is intended for learning purposes only, please delete it within 24 hours once downloaded.
 
-Go to [Issues](https://github.com/ltndkl/Counter-Strike-Avanzate-Edition/issues) to report bugs or request new features.
+-   _CSAE_ has used the following full names:
 
-# _CSAE Localization Supporters Wanted_
-Want CSAE to be available in other languages? We're here waiting for supporters to join us!
+    ~~_Counter-Strike Arcment Edition_~~
 
-To get started, please join the [Official Telegram group](https://t.me/joinchat/JNYAMw3FyuWw81pHaG07JA).
+    ~~_Counter-Strike Avanzate Edition_~~
 
-# New site for downloading _CSAE_
-[This site](https://csae.ltndkl.workers.dev) may let you download games faster than on GitHub, but the only formal releases you can download are [Build 497](https://github.com/ltndkl/Counter-Strike-Avanzate-Edition/releases/tag/497) and [Build 900](https://github.com/ltndkl/Counter-Strike-Avanzate-Edition/releases/tag/900). 
-The site mainly provides test updates.
+    The full name is **_Counter-Strike Augmented Edition_** at present.
 
-Multi-threaded downloaders like IDM and aria2 are recommended.
+[Baidu Tieba](https://tieba.baidu.com/csae)
 
-# _Counter-Strike Avanzate Edition_ 官方更新仓库
-[官方贴吧](https://tieba.baidu.com/csae)
+[Telegram group](https://t.me/joinchat/JNYAMw3FyuWw81pHaG07JA)
 
-[官方电报群](https://t.me/joinchat/JNYAMw3FyuWw81pHaG07JA)
+Go to [releases](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/releases) to download _CSAE_.
 
-请前往[releases](https://github.com/ltndkl/Counter-Strike-Avanzate-Edition/releases)下载 _CSAE_ 。
+Go to [Issues](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/issues) to report bugs or request new features.
 
-请前往[Issues](https://github.com/ltndkl/Counter-Strike-Avanzate-Edition/issues)报告BUG或请求新功能。
+# _Counter-Strike Augmented Edition_ 公开仓库
+-   本仓库目前不包含任何 _CSAE_ 源码。
 
-# 新的 _CSAE_ 下载站点
-从[这个站点](https://csae.ltndkl.workers.dev)下载可能会比GitHub快，但可供下载的正式版本只有[Build 497](https://github.com/ltndkl/Counter-Strike-Avanzate-Edition/releases/tag/497)和[Build 900](https://github.com/ltndkl/Counter-Strike-Avanzate-Edition/releases/tag/900)。此站点主要提供测试版本下载。
+-   下载 _CSAE_ 代表你同意以下内容：
+    1. _CSAE_ 本质上是基于 _CS1.6 build 3266_ 的 mod，与私服无关。
+    2. 禁止将此 mod 和/或其内容用于任何商业目的，mod 制作组不承担与此相关的法律责任。
+    3. 此 mod 仅供学习交流之用，请于下载后 24 小时内删除。
 
-推荐使用多线程下载工具（如IDM，aria2，迅雷等）。
+-   _CSAE_ 使用过以下全名：
+
+    ~~_Counter-Strike Arcment Edition_~~
+
+    ~~_Counter-Strike Avanzate Edition_~~
+
+    现全名为 **_Counter-Strike Augmented Edition_**
+
+
+[百度贴吧](https://tieba.baidu.com/csae)
+
+[电报群](https://t.me/joinchat/JNYAMw3FyuWw81pHaG07JA)
+
+请前往 [releases](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/releases) 下载 _CSAE_ 。
+
+请前往 [Issues](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/issues) 报告 BUG 或请求新功能。
