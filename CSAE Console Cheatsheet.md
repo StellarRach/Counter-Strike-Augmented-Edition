@@ -18,7 +18,7 @@ The following table shows _CSAE_-specific console variables and commands.
 | `mp_initialmorale` | 0 or 1 | 0 | Sets whether humans have a 30% morale level addition in Zombie Hero. 0 for no and 1 for yes. |
 | `mp_noinvincibility` | 0 or 1 | 0 | Sets whether zombies should get a 1-second invincible duration after infection. **0 for yes and 1 for no.** |
 | `mp_plasma_mode` | 0 or 1 | 0 | Sets whether the Plasma Gun bug should be enabled. 0 for no and 1 for yes. |
-| `mp_filter_badwords` | 0 or 1 | 0 | Sets whether to filter words in chat messages. See the release notes for [Build 1500](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/releases/tag/1500). |
+| `mp_filter_badwords` | 0 or 1 | 0 | Sets whether to filter words in chat messages. 0 for no and 1 for yes. See the release notes for [Build 1500](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/releases/tag/1500). |
 | `mp_test_chainsaw` | 0 or 1 | 0 | Sets whether to equip Bots with Chainsaw-class weapons in Zombie modes if possible. 0 for no and 1 for yes. |
 | `mp_zsboss_hpratio` | 0.1-10.0 inclusive | 1.0 | Sets the health ratio for the BOSS in Zombie Scenario. You must set this before the BOSS spawns. |
 | `mp_zsboss_apratio` | 0.1-10.0 inclusive | 1.0 | Sets the armor ratio for the BOSS in Zombie Scenario. You must set this before the BOSS spawns. |
