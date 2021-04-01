@@ -18,7 +18,7 @@
 | `mp_initialmorale` | 0 或 1 | 0 | 设置生化模式（英雄）下人类是否拥有 30% 的士气等级加成。0 为没有，1 为有。 |
 | `mp_noinvincibility` | 0 或 1 | 0 | 设置生化模式下僵尸被感染时是否有 1 秒的无敌时间。**0 为有，1 为没有。** |
 | `mp_plasma_mode` | 0 或 1 | 0 | 设置破晓黎明的 BUG 是否应该被启用。0 为不启用，1 为启用。 |
-| `mp_filter_badwords` | 0 或 1 | 0 | 设置是否过滤聊天消息中的文字。 请查看 [Build 1500](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/releases/tag/1500) 的更新日志。 |
+| `mp_filter_badwords` | 0 或 1 | 0 | 设置是否过滤聊天消息中的文字。0 为否，1 为是。请查看 [Build 1500](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/releases/tag/1500) 的更新日志。 |
 | `mp_test_chainsaw` | 0 或 1 | 0 | 设置在生化模式中是否为所有 BOT 装备电锯类武器（如果可用）。0 为否，1 为是。 |
 | `mp_zsboss_hpratio` | 0.1-10.0 （含） | 1.0 | 设置大灾变下 BOSS 的血量系数。必须在 BOSS 产生之前设置。 |
 | `mp_zsboss_apratio` | 0.1-10.0 （含） | 1.0 | 设置大灾变下 BOSS 的护甲系数。必须在 BOSS 产生之前设置。 |
