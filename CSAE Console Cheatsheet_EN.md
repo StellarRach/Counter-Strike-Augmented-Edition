@@ -1,6 +1,6 @@
 # _CSAE_ Console Cheatsheet
 
-The following are a table of _CSAE_-specific console variables and commands.
+The following table shows _CSAE_-specific console variables and commands.
 
 - Server
 
