@@ -7,7 +7,7 @@
 | 控制台变量 | 值域 | 默认值 | 描述 |
 | --------- | ---- | ------ | ---- |
 | `mp_zombieblood`  | 0 或 1 | 1 | 改变僵尸的血液颜色。 0 为使用红色血液，1 为使用灰绿色血液。 |
-| `mp_gamemode`     | N/A | 0 | 设置游戏模式。必须在加载地图之前设置。 请查看 [_CSAE_ 游戏模式列表](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/blob/master/CSAE%20%E6%8E%A7%E5%88%B6%E5%8F%B0%E6%89%8B%E5%86%8C.md)。
+| `mp_gamemode`     | N/A | 0 | 设置游戏模式。必须在加载地图之前设置。 请查看 [_CSAE_ 游戏模式列表](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/blob/master/CSAE%20%E6%B8%B8%E6%88%8F%E6%A8%A1%E5%BC%8F%E5%88%97%E8%A1%A8.md)。
 | `mp_skullaxe_mode` | 0 或 1 | 0 | 设置是否启用某些近身武器的延迟攻击 BUG （如旋风 SKULL-9 、青龙偃月刀等）。0 为关闭，1 为开启。 |
 | `mp_zombie_spawnmode` | 0 或 1 | 1 | 改变生化模式下的出生点选择来源。 0 为使用地图内置的出生点，1 为使用路点数据生成的出生点。 |
 | `mp_assisttime` | N/A | 3.0 | 设置击杀事件中产生有效助攻的最大时间间隔。 如果小于 0 ，助攻功能将被禁用。 |
