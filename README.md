@@ -4,7 +4,7 @@
 -   This repository does not contain any _CSAE_ source code at the moment.
 
 -   By downloading _CSAE_, you agree with the following terms:
-    1. _CSAE_ is essentially a **mod** based on _CS1.6 build 3266_ and is **NOT** something related with a private server.
+    1. _CSAE_ is essentially a **mod** for _CS1.6 build 3266_ and is **NOT** something related with a private server.
     2. This mod, and/or any of its content, should not be used for any commercial purpose. The mod dev team will NOT bear any legal responsibilities related with this.
     3. This mod is intended for learning purposes only, please delete it within 24 hours once downloaded.
 
@@ -28,7 +28,7 @@ Go to [Issues](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/issues
 -   本仓库目前不包含任何 _CSAE_ 源码。
 
 -   下载 _CSAE_ 代表你同意以下内容：
-    1. _CSAE_ 本质上是基于 _CS1.6 build 3266_ 的 mod，与私服无关。
+    1. _CSAE_ 本质上是用于 _CS1.6 build 3266_ 的 mod，与私服无关。
     2. 禁止将此 mod 和/或其内容用于任何商业目的，mod 制作组不承担与此相关的法律责任。
     3. 此 mod 仅供学习交流之用，请于下载后 24 小时内删除。
 
