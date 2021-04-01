@@ -7,7 +7,7 @@ The following table shows _CSAE_-specific console variables and commands.
 | Console Variable | Value Range | Default Value | Description |
 | ---------------- | ----------- | ------------- | ----------- |
 | `mp_zombieblood`  | 0 or 1 | 1 | Changes the blood color of zombies. 0 for uncensored (red) blood and 1 for censored. |
-| `mp_gamemode`     | N/A | 0 | Sets the game mode. You must set this before a map is loaded. Check [_CSAE_ Game Mode List](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/blob/master/CSAE%20Game%20Mode%List.md). |
+| `mp_gamemode`     | N/A | 0 | Sets the game mode. You must set this before a map is loaded. Check [_CSAE_ Game Mode List](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/blob/master/CSAE%20Game%20Mode%20List.md). |
 | `mp_skullaxe_mode` | 0 or 1 | 0 | Sets whether the delay attack bug for some knives (such as Skull Axe, Dragonsword, etc.) should be enabled. 0 for no and 1 for yes. |
 | `mp_zombie_spawnmode` | 0 or 1 | 1 | Changes the spawn spot source for Zombie modes. 0 for the built-in spawn points in the map and 1 for spawn points generated from the navigation data. |
 | `mp_assisttime` | N/A | 3.0 | Sets the max time interval for a valid assisting record in kill events. If less than zero, this functionality will be disabled. |
