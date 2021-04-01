@@ -32,7 +32,7 @@ The following table shows _CSAE_-specific console variables and commands.
 | `cl_zbupgrade_skin` | 0 or 1 | 1 | Sets whether to show upgraded zombie skins. 0 for no and 1 for yes. |
 | `cl_scoreboard` | 0 or 1 | 1 | Sets whether to display the score board (on the middle-top side of HUD). 0 for no and 1 for yes. |
 | `cl_radar_on` | 0 or 1 | 1 | Sets the radar type. 0 for ordinary radar and 1 for overview radar. The radar in Original mode will be unaffected. |
-| `cl_killeffect` | 0 or 1 | 1 | Sets whether to display the kill animation effects. 0 for no and 1 for yes. |
+| `cl_killeffect` | 0 or 1 | 1 | Sets whether to display the on-screen animation effects for kills (icon effects such as _1 KILL_). 0 for no and 1 for yes. |
 
 | Command | Parameters | Description |
 | ------- | ---------- | ----------- |
