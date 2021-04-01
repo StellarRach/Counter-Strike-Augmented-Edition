@@ -13,7 +13,7 @@
 | `mp_assisttime` | N/A | 3.0 | 设置击杀事件中产生有效助攻的最大时间间隔。 如果小于 0 ，助攻功能将被禁用。 |
 | `mp_gamestyle` | 0 或 1 | 0 | 设置游戏的弹道风格。0 为使用经典弹道风格，1 为使用休闲弹道风格，即强制大多数武器的弹道扩散程度保持为一般程度。 |
 | `mp_enhancerestriction` | 0-2 （含） | 0 | 设置武器强化的禁用程度。0 为无限制, 1 为完全限制，2 为只限制强力武器的强化。 |
-| `mp_weaponrestriction` | 0-13 （含） | 0 | 设置武器限制。请查看 [Build 708](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/releases/tag/708) 的更新日志。 |
+| `mp_weaponrestriction` | 0-13 （含） | 0 | 设置武器限制类型。请查看 [Build 708](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/releases/tag/708) 的更新日志。 |
 | `mp_healmode` | 0 或 1 | 1 | 改变生化模式（英雄）下的僵尸血量恢复方式。 0 为只能静止恢复，1 为随时都可以恢复。在经典生化模式（英雄）下无效。 |
 | `mp_initialmorale` | 0 或 1 | 0 | 设置生化模式（英雄）下人类是否拥有 30% 的士气等级加成。0 为没有，1 为有。 |
 | `mp_noinvincibility` | 0 或 1 | 0 | 设置生化模式下僵尸被感染时是否有 1 秒的无敌时间。**0 为有，1 为没有。** |
