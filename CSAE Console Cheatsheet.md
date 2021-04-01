@@ -7,13 +7,13 @@ The following table shows _CSAE_-specific console variables and commands.
 | Console Variable | Value Range | Default Value | Description |
 | ---------------- | ----------- | ------------- | ----------- |
 | `mp_zombieblood`  | 0 or 1 | 1 | Changes the blood color of zombies. 0 for uncensored (red) blood and 1 for censored. |
-| `mp_gamemode`     | N/A | 0 | Sets the game mode. You must set this before a map is loaded. Check [CSAE Game Mode List](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/blob/master/CSAE%20Game%20Mode%List_EN.md). |
+| `mp_gamemode`     | N/A | 0 | Sets the game mode. You must set this before a map is loaded. Check [_CSAE_ Game Mode List](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/blob/master/CSAE%20Game%20Mode%List_EN.md). |
 | `mp_skullaxe_mode` | 0 or 1 | 0 | Sets whether the delay attack bug for some knives (such as Skull Axe, Dragonsword, etc.) should be enabled. 0 for no and 1 for yes. |
 | `mp_zombie_spawnmode` | 0 or 1 | 1 | Changes the spawn spot source for Zombie modes. 0 for the built-in spawn points in the map and 1 for spawn points generated from the navigation data. |
 | `mp_assisttime` | N/A | 3.0 | Sets the max time interval for a valid assisting record in kill events. If less than zero, this functionality will be disabled. |
-| `mp_gamestyle` | 0 or 1 | 0 | Sets the ballistic style of the server. 0 for using the classical ballistic style, and 1 for using the casual one which forces the spread magnitude of most weapons to their ordinary levels. |
+| `mp_gamestyle` | 0 or 1 | 0 | Sets the ballistic style of the server. 0 for using the classical ballistic style, and 1 for using the casual one which forces the spread magnitude of most weapons to keep at their ordinary levels. |
 | `mp_enhancerestriction` | 0-2 inclusive | 0 | Sets the restriction level of weapon enhancement. 0 for no restriction, 1 for full restriction and 2 for restricting powerful weapons only. |
-| `mp_weaponrestriction` | 0-13 inclusive | 0 | See the release notes for [Build 708](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/releases/tag/708). |
+| `mp_weaponrestriction` | 0-13 inclusive | 0 | Sets the weapon restriction type. See the release notes for [Build 708](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/releases/tag/708). |
 | `mp_healmode` | 0 or 1 | 1 | Changes the zombie healing mechanism in Zombie Hero. 0 for still healing only and 1 for all-time healing. This is omitted in Old Zombie Hero. |
 | `mp_initialmorale` | 0 or 1 | 0 | Sets whether humans have a 30% morale level addition in Zombie Hero. 0 for no and 1 for yes. |
 | `mp_noinvincibility` | 0 or 1 | 0 | Sets whether zombies should get a 1-second invincible duration after infection. **0 for yes and 1 for no.** |
