@@ -20,7 +20,7 @@
 
 [Telegram group](https://t.me/joinchat/JNYAMw3FyuWw81pHaG07JA)
 
-Go to [releases](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/releases) to download _CSAE_.
+Go to [Releases](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/releases) to download _CSAE_.
 
 Go to [Issues](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/issues) to report bugs or request new features.
 
@@ -45,6 +45,6 @@ Go to [Issues](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/issues
 
 [电报群](https://t.me/joinchat/JNYAMw3FyuWw81pHaG07JA)
 
-请前往 [releases](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/releases) 下载 _CSAE_ 。
+请前往 [Releases](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/releases) 下载 _CSAE_ 。
 
 请前往 [Issues](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/issues) 报告 BUG 或请求新功能。
