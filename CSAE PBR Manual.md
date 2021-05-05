@@ -1,7 +1,7 @@
 # _CSAE_ Physically Based Rendering (_PBR_) Manual
 
-[_PBR_](https://en.wikipedia.org/wiki/Physically_based_rendering) is a rendering technique that many modern game engines utilizes. 
-_CSAE_ introduced this technique to improve the rendering quality of _AWM_.
+[_PBR_](https://en.wikipedia.org/wiki/Physically_based_rendering) is a rendering technique that many modern game engines utilize. 
+_CSAE_ has introduced this technique to improve the rendering quality of _AWM_.
 
 Note that _CSAE_ hasn't introduced other graphics techniques yet, thus you should only expect some special effects instead of the whole video quality from _PBR_.
 
