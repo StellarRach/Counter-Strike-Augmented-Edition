@@ -1,6 +1,6 @@
 # _CSAE_ Game Mode List
 
-The following table shows all the game modes _CSAE_ currently have in the latest public build.
+The following table shows all the game modes _CSAE_ currently features in the latest public build.
 
 | Game Mode | Number |
 | --------- | ---- |
