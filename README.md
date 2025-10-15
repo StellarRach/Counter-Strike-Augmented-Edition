@@ -1,4 +1,5 @@
-[中文版](https://github.com/ltndkl/Counter-Strike-Augmented-Edition#counter-strike-augmented-edition-%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93)
+<details>
+    <summary>Click to reveal the English version</summary>
 
 # _Counter-Strike Augmented Edition_ public repository
 -   This repository does not contain any _CSAE_ source code at the moment.
@@ -23,6 +24,8 @@
 Go to [Releases](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/releases) to download _CSAE_.
 
 Go to [Issues](https://github.com/ltndkl/Counter-Strike-Augmented-Edition/issues) to report bugs or request new features.
+
+</details>
 
 # _Counter-Strike Augmented Edition_ 公开仓库
 -   本仓库目前不包含任何 _CSAE_ 源码。
